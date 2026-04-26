@@ -8,3 +8,18 @@ The workflow includes text preprocessing, tokenization, feature extraction, word
 The models were evaluated using key classification metrics such as Accuracy, Precision, Recall, and F1-score to compare performance and optimize prediction quality. The study demonstrated how transformer-based models like BERT provide stronger contextual understanding compared to traditional sequential models like LSTM, making them highly effective for automated text categorization tasks. Similar research in news classification also shows strong improvements using contextual and deep learning approaches over traditional methods.
 
 This project reflects practical implementation of NLP pipelines, model comparison, and deployment-oriented machine learning system design, making it highly relevant for Data Engineering, ML Data Engineering, and AI-driven analytics roles.
+
+Publication
+
+This project is based on my published research paper:
+
+News Categorization using Deep Learning Models (BERT & LSTM)
+Published in International Journal of Scientific Research in Engineering and Management (IJSREM)
+
+Paper Link: https://ijsrem.com/download/news-categorization-using-deep-learning-models-bert-and-lstm/
+
+Additional Conference Publication:
+A Review on BERT and its Implementation in Various NLP Tasks
+Published in ICAMIDA 2022 Conference Proceedings
+
+Conference Link: https://www.atlantis-press.com/proceedings/icamida-22/125986264
